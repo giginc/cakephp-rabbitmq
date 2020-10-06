@@ -1,5 +1,5 @@
 {
-    "name": "riesenia/cakephp-rabbitmq",
+    "name": "giginc/cakephp-rabbitmq",
     "description": "RabbitMQ plugin for CakePHP",
     "keywords": ["cakephp", "rabbitmq"],
     "type": "cakephp-plugin",
